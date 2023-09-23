@@ -1,13 +1,12 @@
 ### Hi There! 👋  
-<a href = "mailto: jaradatshadi1@gmail.com"><img align="right" src="https://img.icons8.com/material-rounded/24/555555/new-post.png" width="32"/></a> 
-<a href="https://twitter.com/ShadiAljaradat?t=olqOi25Tvlq-Gy1j84xEKA&s=08"><img align="right"  src="https://img.icons8.com/ios-filled/64/555555/twitter.svg" width="32"/></a>
-<a href="https://www.linkedin.com/in/shadi-al-jaradat/"><img align="right" src="https://img.icons8.com/ios-filled/64/555555/linkedin.svg" width="32"/></a>
-
+<a href = "mailto: yazansharawi25@gmail.com"><img align="right" src="https://img.icons8.com/material-rounded/24/555555/new-post.png" width="32"/></a> 
 <br />
 
-- 🔭 I’m currently working at KayanHR as a Flutter developer [@KayanHRApp](https://apps.apple.com/jo/app/kayanhr/id1539212937?platform=iphone)
-- 📚 I’m a Senior Computer Science student (Expected graduation: June 2023)
-- 🔭 I’m currently working with two of my colleagues on a recipe organizer app named Recipe Jar as my graduation project
-- 🌱 I’m currently learning Python DJango
-- 💬 Ask me about topics about photography,cooking,movies and coffee
-- 📫 How to reach me: Email - jaradatshadi1@gmail.com | Twitter - [@ShadiAljaradat](https://twitter.com/ShadiAljaradat?t=olqOi25Tvlq-Gy1j84xEKA&s=08)
+- 🔭 I’m currently working as a Software Engineer with expertise in backend and frontend development, UI/UX design, and cybersecurity.
+- 📚 I’m a senior student pursuing a degree in Computer Science (Expected graduation: January 2024)
+- 🔭 I’ve been involved in end-to-end project ownership, from design to implementation, and have a track record of developing robust and efficient software systems.
+- 🌱 I’m constantly learning and recently completed a cybersecurity course from Google to enhance my skills further.
+- 💬 Ask me about topics related to software engineering, UI/UX design, and cybersecurity.
+- 📫 How to reach me: Email - yazansharawi25@gmail.com | LinkedIn - [Yazan Sharawi](https://www.linkedin.com/in/yazan-sharawi/)
+
+
